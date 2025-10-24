@@ -1,7 +1,7 @@
 {
   "name": "pikibet-backend",
   "version": "1.0.0",
-  "description": "Backend for Piki Betting UI",
+  "description": "Backend for Pikibet",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

@@ -91,7 +91,7 @@ export default function App() {
       <div className="w-full max-w-3xl bg-white border border-gray-200 rounded-2xl shadow-xl">
         {/* Header */}
         <div className="px-8 py-6 border-b border-gray-200 flex items-center justify-between">
-          <h1 className="text-2xl font-bold tracking-tight">Piki • Prediction Market</h1>
+          <h1 className="text-2xl font-bold tracking-tight">Pikibet</h1>
           <div className="flex items-center gap-4">
             <div className="text-sm text-gray-500">
               Welcome, <span className="font-semibold">{mockUser.username}</span>
